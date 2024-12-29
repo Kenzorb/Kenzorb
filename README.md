@@ -1,4 +1,8 @@
-## Hi there 👋
+## Kenzie Chua's Project Portfolio 👋
+
+### Python Projects
+insert link here
+
 
 <!--
 **Kenzorb/Kenzorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
